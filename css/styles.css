@@ -1,0 +1,41 @@
+body{
+    background-color: #ECF2FF;
+}
+
+.image-logo{
+    width: 30%;
+}
+
+.card{
+    text-align: center;
+    padding: 2%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 80%;
+    background-color: #F1F6F5;
+    
+}
+
+.my-width{
+    width: 40%;
+    border-style: none;
+    box-shadow: 1px 1px 2px gray, -1px -1px 2px gray;
+    
+}
+
+.btn-my-width{
+    width: 40%;
+    background-color: #d64829;
+    font-weight: bold;
+
+}
+
+.remove-underline{
+    text-decoration: none;
+}
+
+h4{
+    text-align: center;
+   
+}
